@@ -314,7 +314,7 @@ a img.aligncenter {
 	background: #ffffff;
 }
 
-.hamburger{
+/* .hamburger{
 	right: 30px;
 	top: 22px;
 	left: auto;
@@ -343,7 +343,7 @@ a img.aligncenter {
 	-ms-transform: translateY(-10px)rotate(-45deg);
 	-webkit-transform: translateY(-10px)rotate(-45deg);
 	transform: translateY(-10px)rotate(-45deg);
-}
+} */
 
 .fat-nav li{
 	width: 14.28%;
@@ -2642,4 +2642,8 @@ select.mobile-device {
 .btn-light:focus {
     border-color: rgba(255, 255, 255, 0.6);
     color: rgba(255, 255, 255, 0.6);
+}
+
+.nav-link{
+    color: black  !important;
 }
